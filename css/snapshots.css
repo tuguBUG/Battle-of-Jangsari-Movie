@@ -1,0 +1,5 @@
+#snapshots{margin: 0 auto;width: 960px;padding: 20px 0 20px; display: flex;flex-wrap: wrap;align-items: center;justify-content: center;}
+#snapshots .wrap{display: flex;flex-wrap: wrap;width: 100%;}
+#snapshots .wrap .box{width: 460px;height: 300px;margin: 0 10px 20px;background-size: cover;background-position: 50% 50%;}
+#snapshots button{margin-bottom: 20px; width: 192px;height: 40px; border-radius: 4px; color: #fff;font-size: 18px;border: none; background-color: #71788d;cursor: pointer;}
+#snapshots button:hover{background-color: #646976;}

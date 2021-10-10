@@ -1,0 +1,6 @@
+#epilogue{width: 960px;margin: 0 auto;padding: 20px 0;}
+#epilogue .box{display: flex;flex-wrap: wrap;justify-content: space-between;align-items: center;}
+#epilogue .box img{width: 364px;height: 240px;display: block;}
+#epilogue .box h3{font-size: 18px; color: #1f232f; font-weight: normal;text-align: center;}
+#epilogue .box:last-child{display: flex;justify-content: center;}
+#epilogue .box:last-child img{width: 768px;height: 360px;display: block; margin-bottom: 20px;}
